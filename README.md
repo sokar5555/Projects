@@ -35,3 +35,8 @@ These projects are hosted outside of this repository:
 
 - **[SafeStride 5k Android App](https://github.com/sokar5555/SafeStride-5k-App)**  
   An Android app designed to support and track 5K running experiences.
+  
+- **[Hamilton County Gentrification Early Warning Model](https://github.com/sokar5555/hamilton-county-gentrification-early-warning)**  
+  Spatial LightGBM and SHAP model predicting neighborhood gentrification and displacement risk across Hamilton County using harmonized Census data.
+
+
